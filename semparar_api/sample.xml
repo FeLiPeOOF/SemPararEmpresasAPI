@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <!-- Login type can be "CNPJ", "Email", or "Username" -->
+    <login_type>Username</login_type>
+    <login_value>YOUR_SEMPARAR_USERNAME</login_value>
+    <password>YOUR_SEMPARAR_PASSWORD</password>
+    <cookies_path>YOUR_COOKIES_FILE</cookies_path>
+    <!-- Optional: 2Captcha API Key to solve the MTCaptcha completely in the background -->
+    <twocaptcha_api_key>YOUR_2CAPTCHA_API_KEY</twocaptcha_api_key>
+    <!-- Optional date filters in Brazilian format (dd/mm/yyyy) -->
+    <start_date>01/02/2026</start_date>
+    <end_date>30/06/2026</end_date>
+    <!-- Set to "true" to pop up a browser for manual login on session expiry, or "false" to run strictly headless -->
+    <use_interactive_login>false</use_interactive_login>
+</configuration>
