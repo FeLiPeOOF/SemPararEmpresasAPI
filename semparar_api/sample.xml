@@ -4,7 +4,7 @@
     <login_type>Username</login_type>
     <login_value>YOUR_SEMPARAR_USERNAME</login_value>
     <password>YOUR_SEMPARAR_PASSWORD</password>
-    <cookies_path>test</cookies_path>
+    <cookies_path>YOUR_COOKIES_FILE</cookies_path>
     <!-- Optional: 2Captcha API Key to solve the MTCaptcha completely in the background -->
     <twocaptcha_api_key>YOUR_2CAPTCHA_API_KEY</twocaptcha_api_key>
     <!-- Optional date filters in Brazilian format (dd/mm/yyyy) -->
